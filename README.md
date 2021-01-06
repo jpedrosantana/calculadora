@@ -1,6 +1,6 @@
 # Criando uma calculadora com React
 
-### Projeto desenvolvido no curso de [*Web Moderno 2020*](https://www.cod3r.com.br/courses/web-moderno) que pode ser conferido no repositório da [*Cod3r*](https://github.com/cod3rcursos)
+### Projeto desenvolvido no curso de  que pode ser conferido no repositório da [*Cod3r*](https://github.com/cod3rcursos)
 
 A aplicação consiste na criação de uma calculadora simples que consiga realizar as 4 operações básicas utilizando a biblioteca React.
 
@@ -8,5 +8,11 @@ A aplicação consiste na criação de uma calculadora simples que consiga reali
 
 
 **Implementações Futuras:**
+
 Adicionar outras operações, como potenciação e radiciação.
+
 Implementar um segundo display que indique quais valores e operações foram escolhidas.
+
+**Inicialização:**
+
+Digite **npm start** no seu command prompt ou git bash que a aplicação aparecerá localmente em [http://localhost:3000/](http://localhost:3000/).
